@@ -1,0 +1,21 @@
+
+  Android studio 增加 markdown 支持
+
+  参考：   https://blog.51cto.com/u_5018054/6132645
+               https://blog.csdn.net/Sn_Keys/article/details/125035993 
+
+01、安装Markdown插件
+
+02、下载Choose Runtime插件
+
+03、下载JetBrains Runtime：
+   jdk11 对应地址： JetBrainsRuntime
+    -->   https://d2xrhe97vsfxuc.cloudfront.net/jbr_jcef-11_0_16-windows-x64-b2043.64.tar.gz 
+    -->  选项参照 图1 下载选项.png
+
+04、安装Choose Runtime
+
+05、安装JetBrains Runtime
+
+06、预览Markdown文件
+
